@@ -22,3 +22,5 @@
   4.  This command will run the testing file and test your code to make sure it has all the required features.
   5.  You know you're done when your code passes all the tests!
   6.  Go to the Actions tab and make sure to enable the github actions!
+
+  7. sethu college
